@@ -28,7 +28,7 @@ This project is a simple **Library Management System** developed using **Python 
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/LibraryManagementProject.git
+git clone https://github.com/vishu0911/LibraryManagementProject
 
 /*Install Required Packages*/
 
